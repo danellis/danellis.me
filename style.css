@@ -77,3 +77,7 @@ section.job > h2 {
 section.job > ul {
     padding-left: 4em;
 }
+
+section.job > ul > li {
+    padding-bottom: 0.5em;
+}
